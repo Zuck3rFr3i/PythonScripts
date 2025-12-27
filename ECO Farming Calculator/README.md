@@ -1,3 +1,4 @@
+![Image of the app](https://i.imgur.com/wgHjpIt.png)
 # Dependencies
 - Pyside6
 - Nuitka (For Compiling)
